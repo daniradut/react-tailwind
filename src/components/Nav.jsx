@@ -3,7 +3,7 @@ import NikeLogo from "../assets/nike-logo.svg?react";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { useState } from "react";
 
-const ROUTES = ["Home", "Aabount", "Services", "Pricing", "Contact"];
+const ROUTES = ["Home", "About", "Services", "Pricing", "Contact"];
 
 export function Nav({ onClickShoppingBtn }) {
     const [isMobileMenuShown, setIsMobileMenuShown] = useState(false);
