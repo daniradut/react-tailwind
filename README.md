@@ -4,7 +4,7 @@ This project is a single-page application developed using React and Tailwind CSS
 
 ## Live Demo
 
-You can view the live demo of the project here: [https://www.react-tailwind.radut.tech/](#)
+You can view the live demo of the project here: [https://www.react-tailwind.radut.tech/](https://www.react-tailwind.radut.tech/)
 
 ## Features
 
