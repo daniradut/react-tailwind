@@ -1,8 +1,21 @@
-# React + Vite
+# React and Tailwind Single Page Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a single-page application developed using React and Tailwind CSS. It is designed as a learning exercise to understand the integration and functionalities of React combined with the styling capabilities of Tailwind CSS.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the live demo of the project here: [https://www.react-tailwind.radut.tech/](#)
+
+## Features
+
+-   Single Page Application
+-   Responsive design using Tailwind CSS
+-   Demo hosted on AWS Amplify
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+1. Clone the repo: git clone [project-url]
+2. Install NPM packages: npm install
+3. Start the project: npm start
